@@ -1,0 +1,2 @@
+# Amanjs
+First Git hub
